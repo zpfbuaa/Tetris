@@ -1,0 +1,22 @@
+F:\VS2012 Solution\Russia\Russia\bin\Debug\Russia.exe.config
+F:\VS2012 Solution\Russia\Russia\bin\Debug\Russia.exe
+F:\VS2012 Solution\Russia\Russia\bin\Debug\Russia.pdb
+F:\VS2012 Solution\Russia\Russia\obj\Debug\Russia.csprojResolveAssemblyReference.cache
+F:\VS2012 Solution\Russia\Russia\obj\Debug\Russia.Properties.Resources.resources
+F:\VS2012 Solution\Russia\Russia\obj\Debug\Russia.csproj.GenerateResource.Cache
+F:\VS2012 Solution\Russia\Russia\obj\Debug\Russia.exe
+F:\VS2012 Solution\Russia\Russia\obj\Debug\Russia.pdb
+F:\VS2012 Solution\Russia\Russia\bin\Debug\RussiaLibrary.pdb
+F:\VS2012 Solution\Russia\Russia\obj\Debug\Russia.Tetris.resources
+F:\VS2012 Solution\Russia\Russia\bin\Debug\RussiaLibrary.dll
+C:\Users\user\Desktop\Russia\Russia\bin\Debug\Russia.exe.config
+C:\Users\user\Desktop\Russia\Russia\obj\Debug\Russia.exe
+C:\Users\user\Desktop\Russia\Russia\obj\Debug\Russia.pdb
+C:\Users\user\Desktop\Russia\Russia\bin\Debug\Russia.exe
+C:\Users\user\Desktop\Russia\Russia\bin\Debug\Russia.pdb
+C:\Users\user\Desktop\Russia\Russia\bin\Debug\RussiaLibrary.dll
+C:\Users\user\Desktop\Russia\Russia\bin\Debug\RussiaLibrary.pdb
+C:\Users\user\Desktop\Russia\Russia\obj\Debug\Russia.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Russia\Russia\obj\Debug\Russia.Properties.Resources.resources
+C:\Users\user\Desktop\Russia\Russia\obj\Debug\Russia.Tetris.resources
+C:\Users\user\Desktop\Russia\Russia\obj\Debug\Russia.csproj.GenerateResource.Cache

@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Tetris.BlockRectangle" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAGAAAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BlockRectangle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.HighScore" Collapsed="true">
+    <Position X="17" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAMAAAABAAAgAAAAIBAQAAAAEAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>HighScore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.HighScoreDialog" Collapsed="true">
+    <Position X="18.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAABACAEABkAAACIAEADAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HighScoreDialog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.Level" Collapsed="true">
+    <Position X="20.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAQAAAIAAAASAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Level.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.Position" Collapsed="true">
+    <Position X="22.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABhAAAAYAA=</HashCode>
+      <FileName>Position.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.Program" Collapsed="true">
+    <Position X="17" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.TransBlock" Collapsed="true">
+    <Position X="17" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAEAAAAAAAgAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TransBlock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.TetrisMainForm" Collapsed="true">
+    <Position X="22.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IGgBAB0CQaAAAAIQIACCQACSAAAoAYAQAgRSAAgECQA=</HashCode>
+      <FileName>TetrisMainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.Block5" Collapsed="true">
+    <Position X="1" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Block5.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.Block6" Collapsed="true">
+    <Position X="3.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Block6.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.Block1" Collapsed="true">
+    <Position X="5.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Block1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.Block7" Collapsed="true">
+    <Position X="7.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Block7.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.Block" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAEAECAgAAAACAAAAAGAAIAAAAAAEAAB4AgAA=</HashCode>
+      <FileName>Block.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.Block2" Collapsed="true">
+    <Position X="10" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Block2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.Block3" Collapsed="true">
+    <Position X="12.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Block3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.Block4" Collapsed="true">
+    <Position X="14.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Block4.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.TetrisResource" Collapsed="true">
+    <Position X="17" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAiQEAIQAIQRAAAAEBEAAACRAAAAAQCCAAAAECJKA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.TetrisConfig" Collapsed="true">
+    <Position X="18.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACECAAAAAAAAAABEAAAEAAAIAAAAACKAAAEAAAAgA=</HashCode>
+      <FileName>TetrisConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.TetrisSet" Collapsed="true">
+    <Position X="18.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAACAAABFAAAaICERCIAAAAAQBACAAAAAQAEA=</HashCode>
+      <FileName>TetrisSet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.Properties.Resources" Collapsed="true">
+    <Position X="20.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.Properties.Settings" Collapsed="true">
+    <Position X="22.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.TetrisGround" Collapsed="true">
+    <Position X="20.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GACgFAKoACAUghEACFCYRCUCgQowCAQEw7AABwAAINo=</HashCode>
+      <FileName>TetrisGround.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.BackBlockRectangle" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACQAEgmMAIAAkhAAABQIAAAAAEgAAABCEAAAAFAQEQ=</HashCode>
+      <FileName>BackBlockRectangle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Tetris.BlockType" Collapsed="true">
+    <Position X="17" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>BlockType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Tetris.GameState" Collapsed="true">
+    <Position X="18.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAIAAAAAAAQAAIAAAAAAAAAAAAI=</HashCode>
+      <FileName>GameState.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="宋体" Size="9" />
+</ClassDiagram>

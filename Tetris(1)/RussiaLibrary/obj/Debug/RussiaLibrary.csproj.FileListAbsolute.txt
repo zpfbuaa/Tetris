@@ -1,0 +1,12 @@
+F:\VS2012 Solution\Russia\RussiaLibrary\bin\Debug\RussiaLibrary.pdb
+F:\VS2012 Solution\Russia\RussiaLibrary\obj\Debug\RussiaLibrary.csprojResolveAssemblyReference.cache
+F:\VS2012 Solution\Russia\RussiaLibrary\obj\Debug\RussiaLibrary.pdb
+F:\VS2012 Solution\Russia\RussiaLibrary\bin\Debug\RussiaLibrary.dll.config
+F:\VS2012 Solution\Russia\RussiaLibrary\bin\Debug\RussiaLibrary.dll
+F:\VS2012 Solution\Russia\RussiaLibrary\obj\Debug\RussiaLibrary.dll
+C:\Users\user\Desktop\Russia\RussiaLibrary\bin\Debug\RussiaLibrary.dll.config
+C:\Users\user\Desktop\Russia\RussiaLibrary\bin\Debug\RussiaLibrary.dll
+C:\Users\user\Desktop\Russia\RussiaLibrary\bin\Debug\RussiaLibrary.pdb
+C:\Users\user\Desktop\Russia\RussiaLibrary\obj\Debug\RussiaLibrary.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Russia\RussiaLibrary\obj\Debug\RussiaLibrary.dll
+C:\Users\user\Desktop\Russia\RussiaLibrary\obj\Debug\RussiaLibrary.pdb
